@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="2201827641_NATHANAEL_GEP/2201827641_NATHANAEL_GEP/src"/>
+	<classpathentry kind="src" path="2201827654_RenaldyGunivonKwong/UTC_RenaldyGunivonKwong/src"/>
+	<classpathentry kind="src" path="2201827660_Choirunnisa Putri Pangesti/src"/>
+	<classpathentry kind="src" path="2201827673_WILLIAM ANTONY/Cosmetic/src"/>
+	<classpathentry kind="src" path="2201827686_Widya Indriani Loka/CalculateSalary/src"/>
+	<classpathentry kind="src" path="2201827692_VincentiusGandhiDjatmiko/src"/>
+	<classpathentry kind="src" path="2201827704_Vincent Gunawan/sales cosmetic/src"/>
+	<classpathentry kind="src" path="2201827710_Verina_Armelia/2201827710_VerinaArmelia/src"/>
+	<classpathentry kind="src" path="2201827723_Timothy Nathanael Sampurna/UTC-OOP/src"/>
+	<classpathentry kind="src" path="2201827736_Steven Lavinske Santosa/2201827736_Steven Lavinske Santosa_CODE/src"/>
+	<classpathentry kind="src" path="2201827742_Sharen_Sugiarto/SalesSystem/src"/>
+	<classpathentry kind="src" path="2201827755_RosayantiEfata/Cosmetic/src"/>
+	<classpathentry kind="src" path="2201827761_Rendi/Company/src"/>
+	<classpathentry kind="src" path="2201827774_PRASMADHANI/UTC/src"/>
+	<classpathentry kind="src" path="2201827780_Nico Ardian Nugroho/src"/>
+	<classpathentry kind="src" path="2201827793_Natasha Wijaya/2201827793_Natasha Wijaya/src"/>
+	<classpathentry kind="src" path="2201827805_Marcel Julian/UTP/src"/>
+	<classpathentry kind="src" path="2201827824_KelvinChandra/UTC/src"/>
+	<classpathentry kind="src" path="2201827830_JovanReynardo/2201827830_JovanReynardo/src"/>
+	<classpathentry kind="src" path="2201827843_Jason Yonathan Huang/UTC/CASE/src"/>
+	<classpathentry kind="src" path="2201827856_Harry Wijaya/UTC_Harry Wijaya_2201827856/src"/>
+	<classpathentry kind="src" path="2201827862_Gede Ananta Puspayoga Wicaksana/2201827862_Gede Ananta Puspayoga Wicaksana/src"/>
+	<classpathentry kind="src" path="2201827875_GabrielleDaniella/src"/>
+	<classpathentry kind="src" path="2201827881_Febi Mettasari/2201827881_Febi Mettasari/src"/>
+	<classpathentry kind="src" path="2201827894_Edrio/2201827894_Edrio/src"/>
+	<classpathentry kind="src" path="2201827906_EdgarMananta/2201827906-EdgarMananta-Code/src"/>
+	<classpathentry kind="src" path="2201827912_Deka Thomas/2201827912_DekaThomas/src"/>
+	<classpathentry kind="src" path="2201827925_DavidAditya/UTC/src"/>
+	<classpathentry kind="src" path="2201827931_CindyPriscilla/2201827931_cindypriscilla/src"/>
+	<classpathentry kind="src" path="2201827944_Christian Bryan Jayanto/2201827944_Christian Bryan Jayanto/src"/>
+	<classpathentry kind="src" path="2201827950_ChandraHalim/src"/>
+	<classpathentry kind="src" path="2201827963_Candra Wijaya/UTC/src"/>
+	<classpathentry kind="src" path="2201827976_Calvin/2201827976_Calvin/src"/>
+	<classpathentry kind="src" path="2201827982_Billie Johannes Lee/ujian/src"/>
+	<classpathentry kind="src" path="2201827995_Angelica Halim/Quiz/src"/>
+	<classpathentry kind="src" path="2201828000_Andrew Osmond/2201828000 - Andrew Osmond - Case/src"/>
+	<classpathentry kind="src" path="2201828026_Alvin_Tanjaya/2201828026_Alvin Tanjaya/src"/>
+	<classpathentry kind="src" path="2201828032_Alexius_Pangestu/Business/src"/>
+	<classpathentry kind="src" path="2201828045_Alexander Agung Sunaringtyas/2201828045_Alexander Agung Sunaringtyas/src"/>
+	<classpathentry kind="src" path="2201828051_Aldi/Case/src"/>
+	<classpathentry kind="src" path="2201828064_Adhika Nandatio/2201828064_Adhika Nandatio/src"/>
+	<classpathentry kind="src" path="2201828070_Abednego_Frami/UTC.OOP/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
