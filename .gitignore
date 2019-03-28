@@ -1,1 +1,2 @@
-"*.class" 
+*.class
+.ds_store
